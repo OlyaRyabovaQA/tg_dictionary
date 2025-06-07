@@ -54,4 +54,4 @@ python3 dict_bot.py
 
 ## Автор
 
-Оля Рябова ([@dolnikov](https://t.me/Olya_Riabova))
+Оля Рябова ([@Olya_Riabova](https://t.me/Olya_Riabova))
