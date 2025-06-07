@@ -11,11 +11,11 @@
 
 Стартовое меню:
 
-![image](https://raw.githubusercontent.com/OlyaRyabovaQA/tg_dictionary/main/static/menu.png)
+![image](https://raw.githubusercontent.com/OlyaRyabovaQA/tg_dictionary/refs/heads/main/tg_dictionary_start.png)
 
 После отправки запроса:
 
-![image](https://raw.githubusercontent.com/OlyaRyabovaQA/tg_dictionary/main/static/answer.png)
+![image](https://raw.githubusercontent.com/OlyaRyabovaQA/tg_dictionary/refs/heads/main/tg_dictionary.png)
 
 ## 💻 Технологии
 
@@ -54,4 +54,4 @@ python3 dict_bot.py
 
 ## Автор
 
-Герман Дольников ([@dolnikov](https://t.me/dolnikov))
+Оля Рябова ([@dolnikov](https://t.me/Olya_Riabova))
